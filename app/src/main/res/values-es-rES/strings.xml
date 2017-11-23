@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">App de Jon Glez.</string>
+    <string name="accept">Aceptar</string>
+    <string name="cancel">Cancelar</string>
+    <string name="menu_save">Guardar</string>
+    <string name="menu_delete">Eliminar</string>
+    <string name="birthdate_picker_title">Seleccione fecha de nacimiento</string>
+    <string name="invalid_name">El nombre no puede estar en blanco</string>
+    <string name="invalid_date">Seleccione una fecha de nacimiento</string>
+    <string name="created_confirm">Nuevo usuario creado</string>
+    <string name="updated_confirm">Usuario actualizado</string>
+    <string name="deleted_confirm">Usuario eliminado</string>
+    <string name="undo">Deshacer</string>
+    <string name="deleted_failed">Error con el servidor. No se ha podido eliminar el usuario. Por favor, inténtelo de nuevo</string>
+    <string name="connection_failed">La conexión con el servidor ha fallado. Inténtelo de nuevo</string>
+    <string name="data_error">Error al leer los datos del servidor</string>
+    <string name="del_dialog_title">Eliminar</string>
+    <string name="del_dialog_message">¿Está seguro de que quiere eliminar el usuario?</string>
+    <string name="new_dialog_title">Nuevo usuario</string>
+    <string name="edit_dialog_title">Editar usuario</string>
+    <string name="new_dialog_etname">Nombre</string>
+    <string name="new_dialog_etdate">Fecha de nacimiento</string>
+</resources>

@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">App de Jon Glez.</string>
+
+    <string name="edit_dialog_title">Edit User</string>
+    <string name="new_dialog_title">New User</string>
+    <string name="new_dialog_etname">Name</string>
+    <string name="new_dialog_etdate">Date of birth</string>
+
+    <string name="del_dialog_title">Delete</string>
+    <string name="del_dialog_message">Are you sure you want to delete the user?</string>
+
+    <string name="accept">Accept</string>
+    <string name="cancel">Cancel</string>
+    <string name="menu_save">Save</string>
+    <string name="menu_delete">Delete</string>
+    <string name="birthdate_picker_title">Enter birthdate</string>
+    <string name="invalid_name">Name cannot be empty</string>
+    <string name="invalid_date">Birthdate cannot be empty</string>
+    <string name="created_confirm">New user created</string>
+    <string name="updated_confirm">User updated </string>
+    <string name="deleted_confirm">User removed</string>
+    <string name="deleted_failed">Server error. User was not removed. Please try again</string>
+    <string name="connection_failed">Connection with the server failed. Please try again</string>
+    <string name="data_error">Error reading data from the server</string>
+    <string name="undo">Undo</string>
+
+    <string name="user_list_frag_tag" translatable="false">UserListFragment</string>
+    <string name="edit_user_frag_tag" translatable="false">EditUserDialogFragment</string>
+    <string name="date_picker_dialog_tag" translatable="false">DatePickerDialog</string>
+</resources>
